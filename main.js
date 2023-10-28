@@ -5,3 +5,6 @@ var typed = new Typed('.multiple-texts', {
     baclDelay: 1000,
     loop: true
 })
+
+const title = document.getElementById('title');
+console.log(title);
